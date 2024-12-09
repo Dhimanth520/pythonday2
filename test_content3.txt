@@ -1,0 +1,1 @@
+2024-11-27 17:58:13,089 - name1 - INFO - New custom logger now
